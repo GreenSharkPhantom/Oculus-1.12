@@ -6,6 +6,10 @@
 [![](http://cf.way2muchnoise.eu/short_oculus_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/oculus)
 [![](http://cf.way2muchnoise.eu/versions/Available%20for_oculus_full.svg)](https://www.curseforge.com/minecraft/mc-mods/oculus/files)
 
+#### !!!PROJECT CLOSED!!! ####
+
+### There will be no more works anymore ###
+
 Oculus is an Unofficial Fork of ["Iris"](https://www.curseforge.com/minecraft/mc-mods/irisshaders) ported to 1.12.2, made to work with Forge Mod Loader.
 
 ## Disclaimer
